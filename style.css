@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+   'Helvetica Neue', Arial, sans-serif; 
+   background-color: #eee;
+   padding:20px;
+   text-align: center;
+   color:#333;
+}
+#title{
+    font-size: 2.5rem;
+}
+p{
+    padding:20px 0px;
+}
+#image{
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img-div{
+    background-color: #fff;
+    padding: 10px;
+}
+#img-caption{
+    padding:10px;
+}
+#drborlaug{
+    font-weight: bold;
+    font-size: large;
+}
+#tribute-info{
+    margin: 0 auto;
+    width:50%;
+}
+#tribute-info ul{
+    text-align: left;
+}
+#tribute-info ul li{
+    padding:10px 0px;
+}
+#tribute-info ul li span{
+    font-weight: bold;
+}
+blockquote{
+    text-align: justify;
+    width: 90%;
+}
+#reference{
+    font-weight: bold;
+    font-size: larger;
+}
